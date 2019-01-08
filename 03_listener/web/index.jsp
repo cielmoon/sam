@@ -13,6 +13,7 @@
 	<a href="context.do">컨텍스트 리스너</a>
 	<a href="request.do">request 리스너</a>
 	<a href="session.do">session 리스너</a>
+	<a href="bs.do">bstest</a>
 	
 </body>
 </html>
